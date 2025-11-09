@@ -1,0 +1,7 @@
+project_id = "zigopbuvtioxpwcbgszz"
+
+[functions.send-proxy-notification]
+verify_jwt = false
+
+[functions.send-volunteer-notification]
+verify_jwt = false
